@@ -11,13 +11,13 @@
 <h3>🌟 Sosyal medya</h3>
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.gg/vFzgBfs9d4)
-[![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UCNNWyF0MllvAB71bzoDS_BQ)
+[![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UCaH_Dh-p7Kj8sgJj6ttTX_g)
 [![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/This-null)
 [![Discord Badge](https://img.shields.io/badge/İnstagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/zeoxll/)
 
 <h1 align="center"> Tek Discord Hesabım <img src="https://cdn.discordapp.com/attachments/928637744576618526/928680456268955719/b2649e9d1f44585fd228a1aa92cf7616.webp" width="30px"> </h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/311625016276025364?hideDiscrim=true)](https://discord.com/users/311625016276025364)
+[![Discord Presence](https://cdn.discordapp.com/attachments/928637744576618526/928680456268955719/b2649e9d1f44585fd228a1aa92cf7616.webp)](https://discord.com/users/838050555951579137)
 
 <h3 align="left">🍒 GitHub Stats:</h3>
 <p align="left">
